@@ -1,4 +1,8 @@
 # Marcomms-Internal-Comms
+This repository is part of the pilot and migration testing for the Marketing Team. Its discussion area is in the process of migrating to the main Marketing repository under the WordPress organization. 
+
+**Previous information
+**
 This is the repo for general discussions among the team itself and to test discussion features.
 
 Check out the discussions on the tab above or using this link https://github.com/wpmarketingteam/Marcomms-Internal-Comms/discussions

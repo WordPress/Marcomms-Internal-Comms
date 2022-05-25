@@ -1,5 +1,5 @@
 # Marcomms-Internal-Comms
-This repository is part of the pilot and migration testing for the Marketing Team. Please use the discussion area in the main Marketing repository under the WordPress organization. Items in the Marcomms-internal-comms repo are being transferred for archive purposes and then this repo will be deleted/ archived.
+This repository was part of the migration from Trello for the Marketing Team. Please use the discussion area in [the main Marketing repository](https://github.com/WordPress/Marketing-Team) under the WordPress organization. Items have been transferred for archive purposes and this repo will be deleted/ archived.
 
 **Previous information
 **
